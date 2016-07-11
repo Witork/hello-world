@@ -1,2 +1,5 @@
 # hello-world
-First depository
+
+Hello,
+
+This is my account on GitHub.
